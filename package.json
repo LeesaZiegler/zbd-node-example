@@ -15,6 +15,6 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "@zbd/node": "^0.6.3"
+    "@zbd/node": "^0.6.4"
   }
 }
